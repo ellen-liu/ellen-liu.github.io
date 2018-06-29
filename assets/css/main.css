@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css?family=Alegreya");
+.splash{
+  position:absolute;
+  top:20%;
+  left:30%;
+  margin:0px;
+}
+.content{
+  margin:0 auto;
+  font-family:'Alegreya';
+}
+.name{
+  font-size:48px;
+}
+.bio{
+  font-size:16px;
+}
+a {
+  color:#4881ba;
+}
+h2 {
+  font-size:18px;
+}
+hr {
+	width:60%;
+	/*margin-left: 0;*/
+}
+.media_list{
+  color:#4881ba;
+}
+.gallery {
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+.polaroid {
+  display: inline-block;
+  margin: 10px;
+  position: relative;
+  width: auto;
+}
+.polaroid img {
+  border: 12px solid #fff;
+  border-bottom: 70px solid #fff;
+  -webkit-box-shadow: 3px 3px 3px #888;
+  -moz-box-shadow: 3px 3px 3px #888;
+  box-shadow: 3px 3px 3px #888;
+  max-height: 150;
+  max-width: 100px;
+}
+.polaroid p {
+  color: #888;
+  font-size: 15px;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+}
+li {
+  font-size: 15px;
+  display:inline;
+  list-style-type:none;
+  padding:0 10px;
+}
