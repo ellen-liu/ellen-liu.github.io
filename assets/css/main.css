@@ -4,9 +4,13 @@
   top:20%;
   left:30%;
   margin:0px;
+  background-image: url('../../images/amphitheaterhalf.png');
+  background-color: #ffffff;
 }
 .content{
+  background-color: rgba(255,255,255,0.6);
   margin:0 auto;
+  padding:10px;
   font-family:'Alegreya';
 }
 .name{
@@ -17,6 +21,9 @@
 }
 a {
   color:#4881ba;
+}
+a:hover{
+  background-color: #c1dfff;
 }
 h2 {
   font-size:18px;
@@ -29,7 +36,6 @@ hr {
   color:#4881ba;
 }
 .gallery {
-  background-color: #d9e4f7;
   margin: 0 auto;
   padding: 20px;
   text-align: center;
