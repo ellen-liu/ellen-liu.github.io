@@ -23,7 +23,8 @@ a {
   color:#4881ba;
 }
 a:hover{
-  background-color: #c1dfff;
+  text-transform: lowercase;
+  letter-spacing: 1;
 }
 h2 {
   font-size:18px;
